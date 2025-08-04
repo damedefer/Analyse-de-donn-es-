@@ -1,0 +1,11 @@
+Nom,Âge,Ville,Revenu (€),Inscrit
+Alice,25,Yaoundé,2500.0,Oui
+Bob,30,Douala,3200.0,Non
+Charlie,,Yaoundé,2800.0,Oui
+Alice,25,Yaoundé,2500.0,Oui
+Eve,22,Bafoussam,,non
+,40,Douala,3400.0,Oui
+George,,,3000.0,non
+Bob,30,douala,,Non
+  charlie ,35,YAOUNDÉ,2800.0,
+Eve,22,Bafoussam,2700.0,Oui
